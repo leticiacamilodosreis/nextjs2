@@ -8,6 +8,8 @@ export default function Home() {
         <h1>ola mundo</h1>
 
         <p>olha so que site divertido</p>
+
+        <p>site de hoje</p>
         
       </div>
 
